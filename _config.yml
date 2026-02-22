@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhenyu Li"
-  avatar           : "images/self.png"
+  avatar           : "images/DSCF3353.JPG"
   bio              : ""
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=EpjFxs8AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=v0IDKw4AAAAJ&hl=zh-CN"
   email            : "zy-li21@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
