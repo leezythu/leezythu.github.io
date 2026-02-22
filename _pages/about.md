@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-😎 Hi, I am **Junting Lu (Aidan Lew)**, currently a final-year master student at Institute for Software Engineering, Peking University (PKU). Prior to that, I received the B.S. degree from Northwestern Polytechnical University (NWPU) in 2023. 
+😎 Hi, I am **Zhenyu Li (李振宇)**, currently a Ph.D. student in Computer Science and Technology at Tsinghua University, advised by Prof. [Jianyong Wang](https://dbgroup.cs.tsinghua.edu.cn/wang/). Prior to that, I received my B.S. degree from Tsinghua University in 2021.
 
-My current research interests primarily focus on:
-- **Tool Learning**: Explore how to endow large models with human-level tool use abilities.
-- **OS Agent**: Develop intelligent agents that utilize (multi-modal) large language models ((M)LLMs) to operate within operating systems (OS) environments.
-- **Native VLM Agent**: Advancing research on equipping MLLMs with hybird Agent abilities.
+My primary research focuses on enhancing the memory and reasoning capabilities of large language models:
+- **Knowledge Graph + LLM**: Large language models interacting with knowledge graphs to solve complex multi-hop questions.
+- **Long-Context & Memory**: Extending the long-context and memory capabilities of LLMs to address long-document reasoning challenges.
+- **RL for Reasoning & Agents**: Currently, I am also interested in reinforcement learning for reasoning and agents.
 
 
 # 📖 Educations
-- [2023.09-2026.06] M.S. Peking University (PKU)
-- [2019.09-2023.06] B.S. Northwestern Polytechnical University (NWPU)
+- [2021.09-Present] Ph.D. student, Tsinghua University (Advisor: Prof. Jianyong Wang)
+- [2017.09-2021.07] B.S. Tsinghua University (Outstanding Graduate of the Department)
 
 
 # 🔥 News
@@ -35,23 +35,17 @@ My current research interests primarily focus on:
 - 🔥 [2026.02.14]: We released **Seed 2.0**. It is a powerful unified model with comprehensive capabilities surpassing Gemini 3 Pro with extreme superior agent capabilities.
 As a core contributor, I am responsible for **general tool use ability** (MCPmark 54.7, BFCLv4 73.4, tau^ 2 retail 90.9, WorldTravel 23.3), which has been greatly improved compared to version 1.8. More details check the [model card](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf).
 - 🌟 [2025.12.18]: Our team is releasing **Seed1.8**, a model designed for generalized real-world agency. It supports text and image inputs and with its powerful multimodal processing capabilities, it demonstrates good performance across various complex application scenarios such as information retrieval, coding, Graphical User Interface (GUI) interaction. More details check the [model card](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf).
-- 🎉 [2025.10.29]: We released [Game-Tars](https://arxiv.org/abs/2510.23691): A generalist game agent trained with a unified, scalable action space anchored to human-aligned native keyboard-mouse inputs.
-- 🌟 [2025.09.04]: We’re excited to announce the release the **UI-TARS-2**, which is a major upgrade from UI-TARS-1.5, featuring with enhanced capabilities in GUI, Game, Code and Tool Use. It is an **"All In One"** Agent model, enabling seamless integration of multiple abilities for complex tasks. Please check our new [technical report](https://arxiv.org/abs/2509.02544) for more details. Refer to more fantastic showcases at our [website](https://seed-tars.com/showcase/ui-tars-2/).
-- 🎉 [2025.07.21]: [LAM](https://arxiv.org/abs/2412.10047) been accepted by TMLR 2025. The first paper to systematically expound how to transform a **Large Language Model** into a **Large Action Model** through different training stages.
-- 🎉 [2025.05.16]: [AXIS](https://arxiv.org/abs/2409.17140) been accepted by ACL 2025. We proposes a pioneering agent framework to hybrid **GUI actions with API actions** through **Skill exploration**, so as to improve the efficiency of the OS Agent.
-- 🎉 [2025.05.11]: We released [Seed1.5-VL](https://arxiv.org/abs/2505.07062), a vision-language foundation model designed to advance general-purpose multimodal understanding and reasoning. In agent-centric tasks such as **GUI control and gameplay**, Seed1.5-VL outperforms leading multimodal systems, including OpenAI CUA and Claude 3.7.
-- 🌟 [2025.04.16]: We shared the latest progress of the UI-TARS-1.5 model in our [blog](https://seed-tars.com/1.5), which excels in playing games and performing GUI tasks, and we open-sourced the [UI-TARS-1.5-7B](https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B).
-- 🔥 [2025.02.22] We released [EasyR1](https://github.com/hiyouga/EasyR1) 🎉🎉🎉, an Efficient, Scalable, Multi-Modality RL Training Framework based on veRL.
-- 🔥 [2024.12.13] We released the [UFO](https://github.com/microsoft/UFO) v1.2.0 with the code and sample data for Large Action Model (LAM) data collection! Please checkout our new paper and documentation for more details.
+- 🎉 [2025.05]: [FocusLLM](https://aclanthology.org/2025.acl-long.1500/) has been accepted by **ACL 2025 Main**. A framework for extending LLM context length through dynamic condensing.
+- 🎉 [2025.05]: [Negative Matters](https://arxiv.org/abs/2509.00842) has been accepted by **ACL 2025 Main**.
+- 🎉 [2025.05]: [Maximum Score Routing](https://aclanthology.org/2025.findings-acl.653/) has been accepted by **ACL 2025 Findings**.
+- 🎉 [2024.07]: [UniMem](https://openreview.net/forum?id=gQAEGSGVnN) has been accepted by **COLM 2024**.
+- 🎉 [2023.12]: [FlexKBQA](https://arxiv.org/abs/2308.12060) has been accepted by **AAAI 2024 (Oral, Top 2%)**.
 - 🎉 [2023.11.23] We released the [XAgent](https://github.com/OpenBMB/XAgent) v1.0.0! 🎉🎉🎉
 
 
 
 # 💌 Projects
-- [UI-TARS](https://github.com/bytedance/UI-TARS): **An open-source multimodal agent built upon a powerful vision-language model**. ![Github stars](https://img.shields.io/github/stars/bytedance/UI-TARS.svg)
 - [XAgent](https://github.com/OpenBMB/XAgent): **An Autonomous Agent for Complex Task Solving.** ![Github stars](https://img.shields.io/github/stars/OpenBMB/XAgent.svg)
-- [UFO](https://github.com/microsoft/UFO): **A UI-Focused Agent for Windows OS Interaction.** ![Github stars](https://img.shields.io/github/stars/microsoft/UFO.svg)
-- [EasyR1](https://github.com/hiyouga/EasyR1): **An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL.** ![Github stars](https://img.shields.io/github/stars/hiyouga/EasyR1.svg)
 
 
 # 📝 Selected Publications 
@@ -61,39 +55,59 @@ As a core contributor, I am responsible for **general tool use ability** (MCPmar
 - **Seed 1.8 Model Card: Towards Generalized Real-World Agency** \
   Seed Team \
   Model card 2025, [[Paper](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)]
-- **Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents** \
-  UI-TARS Team \
-  Technical Report 2025, [[Paper](https://arxiv.org/pdf/2510.23691)]
-- **UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning** \
-  UI-TARS Team \
-  Technical Report 2025, [[Paper](https://arxiv.org/abs/2509.02544)]
-- **Seed1.5-VL Technical Report** \
-  Seed VLM Team \
-  Technical Report 2025, [[Paper](https://arxiv.org/abs/2505.07062)]
-- **AXIS: Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents** \
-  <i>**Junting Lu\***</i>, Zhiyang Zhang\*, Fangkai Yang, Jue Zhang, Lu Wang, Chao Du, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang \
-  ACL 2025 Main, [[Paper](https://arxiv.org/abs/2409.17140)]
-- **Large Action Models: From Inception to Implementation** \
-  Lu Wang\*, Fangkai Yang\*, Chaoyun Zhang\*, <i>**Junting Lu**</i>, Jiaxu Qian, Shilin He, Pu Zhao, Bo Qiao, Ray Huang, Si Qin, Qisheng Su, Jiayi Ye, Yudi Zhang, Jian-Guang Lou, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang \
-  TMLR 2025, [[Paper](https://arxiv.org/abs/2412.10047)]
+- **Efficient Attention Mechanisms for Large Language Models: A Survey** \
+  Yutao Sun\*, <i>**Zhenyu Li\***</i>, Yike Zhang\*, Tengyu Pan\*, Bowen Dong\*, Yuyi Guo, Jianyong Wang \
+  Under Review (Nature Machine Intelligence), [[Paper](https://arxiv.org/abs/2507.19595)]
+- **FocusLLM: Precise Understanding of Long Context by Dynamic Condensing** \
+  <i>**Zhenyu Li**</i>, Yike Zhang, Tengyu Pan, Yutao Sun, Zhichao Duan, Junjie Fang, Rong Han, Zixuan Wang, Jianyong Wang \
+  ACL 2025 Main, [[Paper](https://aclanthology.org/2025.acl-long.1500/)]
+- **Negative Matters: Multi-Granularity Hard-Negative Synthesis and Anchor-Token-Aware Pooling for Enhanced Text Embeddings** \
+  Tengyu Pan, Zhichao Duan, <i>**Zhenyu Li**</i>, Bowen Dong, Ning Liu, Xiuxing Li, Jianyong Wang \
+  ACL 2025 Main, [[Paper](https://arxiv.org/abs/2509.00842)]
+- **Maximum Score Routing For Mixture-of-Experts** \
+  Bowen Dong, Yilong Fan, Yutao Sun, <i>**Zhenyu Li**</i>, Tengyu Pan, Xun Zhou, Jianyong Wang \
+  ACL 2025 Findings, [[Paper](https://aclanthology.org/2025.findings-acl.653/)]
+- **UniMem: Towards a Unified View of Long-Context Large Language Models** \
+  Junjie Fang, Likai Tang, Hongzhe Bi, Yujia Qin, Si Sun, <i>**Zhenyu Li**</i>, Haolun Li, Yongjian Li, Xin Cong, Yankai Lin, Yukun Yan, Xiaodong Shi, Sen Song, Zhiyuan Liu, Maosong Sun \
+  COLM 2024, [[Paper](https://openreview.net/forum?id=gQAEGSGVnN)]
+- **FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering** \
+  <i>**Zhenyu Li**</i>, Sunqi Fan, Yu Gu, Xiuxing Li, Zhichao Duan, Bowen Dong, Ning Liu, Jianyong Wang \
+  AAAI 2024 (Oral, Top 2%), [[Paper](https://arxiv.org/abs/2308.12060)]
+- **Optimization Techniques for Unsupervised Complex Table Reasoning via Self-Training Framework** \
+  <i>**Zhenyu Li**</i>, Xiuxing Li, Sunqi Fan, Jianyong Wang \
+  IEEE Transactions on Knowledge and Data Engineering (TKDE), [[Paper](https://arxiv.org/abs/2212.10097)]
+- **Toward a Unified Framework for Unsupervised Complex Tabular Reasoning** \
+  <i>**Zhenyu Li**</i>, Xiuxing Li, Zhichao Duan, Bowen Dong, Ning Liu, Jianyong Wang \
+  ICDE 2023, [[Paper](https://arxiv.org/abs/2212.10097)]
+- **Effective Few-Shot Named Entity Linking by Meta-Learning** \
+  Xiuxing Li\*, <i>**Zhenyu Li\***</i>, Zhengyan Zhang, Ning Liu, Haitao Yuan, Wei Zhang, Zhiyuan Liu, Jianyong Wang \
+  ICDE 2022, [[Paper](https://ieeexplore.ieee.org/document/9835266/)]
 
-> Full paper list refer to [google scholar](https://scholar.google.com/citations?user=ZyvZWYYAAAAJ).
+> Full paper list refer to [google scholar](https://scholar.google.com/citations?user=EpjFxs8AAAAJ).
 
 # 🎖 Honors and Awards
-- [2024] Luo Yuehua Scholarship at Peking University
-- [2023] Shaanxi Province Outstanding Undergraduate at NWPU
-- [2022] Huawei Scholarship at NWPU
-- [2020,2021,2022] National Scholarship for Undergraduate at NWPU  
+- [2024] Comprehensive Excellence Scholarship, Tsinghua University
+- [2023] Comprehensive Excellence Scholarship, Tsinghua University
+- [2022] Comprehensive Excellence Scholarship, Tsinghua University
+- [2021] Outstanding Graduate of the Department of Computer Science, Tsinghua University
+- [2021] National Encouragement Scholarship
+- [2020] First Prize of Hua Luogeng Mathematical Contest in Modeling, Tsinghua University (Top 3%)
+- [2019] Academic & Social Work Excellence Scholarship, Tsinghua University
+- [2018] Second Prize of the Physics Competition for College Students in Parts of China
 
 
 # 💻 Work Experience
 - [2025.2-present] Bytedance-Seed Intern (supervised by Dr. [Yujia Qin](https://yujia-qin.github.io/))
-- [2024.3-2024.10] Microsoft DKI Group Intern (supervised by Dr. [Fangkai Yang](https://www.microsoft.com/en-us/research/people/fangkaiyang/))
-- [2023.8-2024.2] ModelBest && TsinghuaNLP Intern (supervised by Dr. Yinxu Pan, Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/))
+- [2024.8-2025.4] Microsoft Research Asia, NLC Group Intern (Mentor: Dr. [Li Dong](https://www.microsoft.com/en-us/research/people/lidong1/))
+- [2023.9-2024.2] Tsinghua University, THUNLP Group Research Collaboration (Advisor: Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/))
+
+# 🎓 Teaching Experience
+- [2021.09-Present] Undergraduate Counselor, Tsinghua University (12·9 Counselor Scholarship)
+- [2022.01-2023.12] Teaching Assistant of Software Engineering, Tsinghua University
 
 # 📚 Academic Services
-- Serving as a reviewer of KDD 2026
+- Serving as a reviewer of ACL 2025, ICLR 2026
 
 # 💡 Lifestyle
 
-- My hobbies include but are not limited to 🎤singing, 🎸guitar, 🧙 magic and 🫘 bean.
+- My hobbies include but are not limited to 🎤 singing, 🏸 badminton and 🥏 frisbee.

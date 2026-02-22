@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junting Lu"
-description              : "Institute for SE @ PKU | Seed @ Bytedance"
-repository               : "AL-377/AL-377.github.io"
+title                    : "Zhenyu Li"
+description              : "Dept. of CST @ Tsinghua University"
+repository               : "leezythu/leezythu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junting Lu"
+  name             : "Zhenyu Li"
   avatar           : "images/self.png"
   bio              : ""
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ZyvZWYYAAAAJ"
-  email            : "aidan.lew.37@stu.pku.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=EpjFxs8AAAAJ"
+  email            : "zy-li21@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/leezythu"
   google_plus      :
   keybase          :
   instagram        :
