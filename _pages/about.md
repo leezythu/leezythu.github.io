@@ -97,7 +97,8 @@ As a contributor, I am responsible for **deep research ability** (DeepConsult 61
 
 
 # 💻 Work Experience
-- [2025.2-present] Bytedance-Seed Intern (supervised by Dr. [Yujia Qin](https://yujia-qin.github.io/))
+- [2025.9-present] Bytedance-Seed Intern (Agent Group, supervised by Dr. [Yujia Qin](https://yujia-qin.github.io/))
+- [2025.6-2025.9] Bytedance-Seed Intern (Pretrain Group, supervised by Ke Shen)
 - [2024.8-2025.4] Microsoft Research Asia, NLC Group Intern (Mentor: Dr. [Li Dong](https://www.microsoft.com/en-us/research/people/lidong1/))
 - [2023.9-2024.2] Tsinghua University, THUNLP Group Research Collaboration (Advisor: Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/))
 
