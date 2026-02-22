@@ -57,7 +57,7 @@ As a contributor, I am responsible for **deep research ability** (DeepConsult 61
   Model card 2025, [[Paper](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)]
 - **Efficient Attention Mechanisms for Large Language Models: A Survey** \
   Yutao Sun\*, <i>**Zhenyu Li\***</i>, Yike Zhang\*, Tengyu Pan\*, Bowen Dong\*, Yuyi Guo, Jianyong Wang \
-  Under Review (Nature Machine Intelligence), [[Paper](https://arxiv.org/abs/2507.19595)]
+  Under Review (Cell Patterns), [[Paper](https://arxiv.org/abs/2507.19595)]
 - **FocusLLM: Precise Understanding of Long Context by Dynamic Condensing** \
   <i>**Zhenyu Li**</i>, Yike Zhang, Tengyu Pan, Yutao Sun, Zhichao Duan, Junjie Fang, Rong Han, Zixuan Wang, Jianyong Wang \
   ACL 2025 Main, [[Paper](https://aclanthology.org/2025.acl-long.1500/)]
