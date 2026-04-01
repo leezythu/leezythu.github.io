@@ -19,10 +19,10 @@ redirect_from:
 
 😎 Hi, I am **Zhenyu Li (李振宇)**, currently a Ph.D. student in Computer Science and Technology at Tsinghua University, advised by Prof. [Jianyong Wang](https://dbgroup.cs.tsinghua.edu.cn/wangjy/). Prior to that, I received my B.S. degree from Tsinghua University in 2021.
 
-My primary research focuses on enhancing the memory and reasoning capabilities of large language models:
-- **Knowledge Graph + LLM**: Large language models interacting with knowledge graphs to solve complex multi-hop questions.
-- **Long-Context & Memory**: Extending the long-context and memory capabilities of LLMs to address long-document reasoning challenges.
-- **RL for Reasoning & Agents**: Currently, I am also dedicated to building powerful agents through reinforcement learning.
+My primary research focuses on enhancing the reasoning and agentic capabilities of large language models:
+- **Native Agentic Model**: Equip LLMs with intrinsic agentic capabilities such as instruction following, multi-step planning, and complex tool orchestration, towards models that can autonomously handle diverse real-world tasks.
+- **Agent RL**: Extend reinforcement learning to open-ended, hard-to-verify agent scenarios by designing effective reward mechanisms (e.g., rubric-based evaluation), improving agent performance in deep research and creative design.
+- **Long-Context & Efficient Architecture**: Extend LLMs' long-context capabilities while designing efficient attention mechanisms and in-context updatable architectures for test-time learning.
 
 
 # 📖 Educations
