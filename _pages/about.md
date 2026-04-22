@@ -31,6 +31,7 @@ My primary research focuses on enhancing the reasoning and agentic capabilities 
 
 
 # 🔥 News
+- 🔥 [2026.04.21]: [**Agent-World**](https://huggingface.co/papers/2604.18292) featured as 🤗 HF Daily Paper #2 ! It is the first **self-evolving training arena** for general agents. Agent-World-14B achieves 55.8% on BFCL-V4 (surpassing DeepSeek-V3.2-685B), 65.4% on tau²-Bench and outperforms all open-source baselines across 23 agent benchmarks. It exhibits **strong generalization** in General Reasoning, Agentic Search & Coding domains, and delivers significant improvements in advanced agentic assistant scenarios such as **SkillsBench** and **ClawEval**. More details refer to our [paper](https://arxiv.org/pdf/2604.18292) and [demo](https://agent-tars-world.github.io/-/).
 - 🎉 [2026.02.16]: **Seed 2.0** made its debut in the LM Arena rankings, securing **6th** place in the Text Arena and **3rd** place in the Vision Arena respectively ! 🎉🎉🎉
 - 🔥 [2026.02.14]: We released **Seed 2.0**. It is a powerful unified model with comprehensive capabilities surpassing Gemini 3 Pro with extreme superior agent capabilities.
 As a contributor, I am responsible for **deep research ability** (DeepConsult 61.1, DeepResearchBench 53.3, ResearchRubrics 50.7), which has been greatly improved compared to version 1.8. More details check the [model card](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf).
